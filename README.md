@@ -1,0 +1,2 @@
+# Model-first-approach-in-entity-framework6-with-asp.net-mvc5
+In this article I am going to discuss how to create web application using model first approach using entity framework 6 with ASP.NET MVC 5. This article let you know how to start with designing model by creating entities,relationship between entities and inheritance directly in design time using EDMX and generate database from model. http://www.techstrikers.com/Articles/model-first-approach-in-entity-framework6-with-asp.net-mvc5.php
